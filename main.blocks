@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="2wSs+]Drmr]+1dFYRP%+" x="598" y="-213"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="controls_repeat_ext" id="[4.s{-ynoTNlt6kwl@Dz"><value name="TIMES"><shadow type="math_whole_number" id="TUP3%tg*,%cO8OeN0T=]"><field name="NUM">8</field></shadow></value><statement name="DO"><block type="device_show_leds" id="[3c9D@*R?f?2c^kUB8Ag"><field name="LEDS">`
+        . # # # . 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        . # # # .
+        `</field><next><block type="device_pause" id="^-|J2=J5sJ*|Szbd8$KY"><value name="pause"><shadow type="timePicker" id="=[2b:`Wbmnm%FAUU$d;,"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="_sd/ZIgthSjS/EC8L}Ko"><field name="LEDS">`
+        . # # . . 
+        # # # . . 
+        # # . . . 
+        # # # . . 
+        . # # . .
+        `</field><next><block type="device_pause" id=",1a^[K+q;iXCI0.b`}6="><value name="pause"><shadow type="timePicker" id="o%Q:QgTlvynXy$@DN0AJ"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="Z.H2Ga)n3ENgect.h@1z"><field name="LEDS">`
+        . # # . . 
+        # # . . . 
+        # . . . . 
+        # # . . . 
+        . # # . .
+        `</field><next><block type="device_pause" id="d.=z*/o5c=utP`f{-f58"><value name="pause"><shadow type="timePicker" id="OBt,Hg;XN1H_;1c/Z`pK"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id=";J:5:)daD{+tW$woqHEp"><field name="LEDS">`
+        . # # # . 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_pause" id="=!V8M3}N)Vy-9_m9gr$g"><value name="pause"><shadow type="timePicker" id="[md}v{k+9~@/ldoQH3H`"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block><block type="device_button_event" id="a5!3/^0MqRPbe~a]y84;" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="0$#)`VX[B5c-/PSP~a0d"><field name="i">IconNames.Happy</field></block></statement></block><block type="device_button_event" id="6LS|xS#%|k%{j+AYmDnH" x="311" y="4"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="basic_show_icon" id="pUBk2D#1MC[wQ$p5jX[W"><field name="i">IconNames.Sad</field></block></statement></block></xml>
